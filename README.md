@@ -1,4 +1,0 @@
-OnlineResume
-============
-
-Online Resume Project
