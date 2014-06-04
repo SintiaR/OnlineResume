@@ -49,30 +49,7 @@
 								<h2 class="job-title">Taco Bell</h2>								
 							</hgroup>							
 							<p class="job-details">Cashier, pre-preparation, count till, stock front counter and drive-thru, clean tables, clean ouside, check bathrooms, dishwasher and help customers</p>
-						</article>
-						<article>
-							<div class="date-ranges">
-							    <span class="job-start"></span>
-							    <span class="job-end"></span>
-							</div>
-							<hgroup>
-								<h1 class="job-location"></h1>
-								<h2 class="job-title"> </h2>								
-							</hgroup>							
-							<p class="job-details"></p>
-						</article>
-						<article>
-							<div class="date-ranges">
-								<span class="job-start"></span>
-								<span class="job-end"></span>
-							</div>
-							<hgroup>
-								<h1 class="job-location"></h1>
-								<h2 class="job-title"></h2>						
-							</hgroup>							
-							<p class="job-details"></p>
-						</article>			
-					</div>
+
 				</div>
 				<div class="col col-two">	
 					<article>
@@ -80,23 +57,16 @@
 						<dl>
 							<dt>Language</dt>
 							<dd>Speak english and spanish</dd>
-							<dt>Sports</dt>
-							<dd></dd>
+						
 							<dt>Computers</dt>
 							<dd>Know how to use POS</dd>
-							<dt></dt>
-							<dd></dd>																																			
 						</dl>
 					</article>
 					<article>
 						<h1>Interests</h1>
 						<ul>
 							<li>Art</li>
-							<li></li>
-							<li></li>
 						</ul>
-						<blockquote><p></p><span></span></blockquote>
-						<p><em></em></p>						
 					</article>			
 				</div>
 	    	</div>
