@@ -14,63 +14,63 @@
 					<div>
 					    <header>
 							<hgroup>							
-								<h1>Ernie Existential</h1>
-								<h2>Meandering Nobody</h2>
+								<h1>Sintia Ruiz Calles</h1>
+								<h2></h2>
 							</hgroup>
 					    </header>						
 						<div id="contact-info">
 							<dl>
 								<dt>mobile</dt>
-								<dd>555-555-LOST</dd>
+								<dd>206-555-5555</dd>
 								<dt>email</dt>
-								<dd><a href="mailto:nobody.special@nobodycares.com?subject=feedback">nobody.special@nobodycares.com</a></dd>
+								<dd><a href="mailto:nobody.special@nobodycares.com?subject=feedback">sintia.pc@hotmail.com</a></dd>
 								<dt>web</dt>
-								<dd><a href="#">my-boring-old-website.com</a></dd>
+								<dd><a href="#">sintiar.github.io</a></dd>
 							</dl>
 						</div>							
 						<article>
 							<div class="date-ranges">
-							    <span class="job-start">2010</span>
-							    <span class="job-end">present</span>
+							    <span class="job-start">July 2012</span>
+							    <span class="job-end">August 2012</span>
 							</div>						
 							<hgroup>
-								<h1 class="job-location">Anytown, USA</h1>
-								<h2 class="job-title">Café Dweller</h2>														
+								<h1 class="job-location">Seatac,WA</h1>
+								<h2 class="job-title">Las Palmas Restaurant</h2>														
 							</hgroup>
-							<p class="job-details">Responsible for occupying the table near the window. Order mochas three times a week, every week. Pretend to be okay with where all the time went.</p>
+							<p class="job-details">Host, take orders, and calls, clean tables, check bathrooms, cash out, wash dishes and pick u dishes from table</p>
 						</article>
 						<article>
 							<div class="date-ranges">
-							    <span class="job-start">Sept 1990</span>
-							    <span class="job-end">Feb 2002</span>
+							    <span class="job-start">August 2013</span>
+							    <span class="job-end">Present</span>
 							</div>							
 							<hgroup>
-								<h1 class="job-location">Parents' House</h1>
-								<h2 class="job-title">Big Toe Stubber</h2>								
+								<h1 class="job-location">Seatac,WA</h1>
+								<h2 class="job-title">Taco Bell</h2>								
 							</hgroup>							
-							<p class="job-details">It may not seem like a watershed moment for those of you reading this, but the pain I felt in my left foot's big toe was noteworthy during these twelve years.</p>
+							<p class="job-details">Cashier, pre-preparation, count till, stock front counter and drive-thru, clean tables, clean ouside, check bathrooms, dishwasher and help customers</p>
 						</article>
 						<article>
 							<div class="date-ranges">
-							    <span class="job-start">Mar 1980</span>
-							    <span class="job-end">Apr 1989</span>
+							    <span class="job-start"></span>
+							    <span class="job-end"></span>
 							</div>
 							<hgroup>
-								<h1 class="job-location">Various Couches</h1>
-								<h2 class="job-title">Executive Snacker&frasl;Sleep Coordinator</h2>								
+								<h1 class="job-location"></h1>
+								<h2 class="job-title"> </h2>								
 							</hgroup>							
-							<p class="job-details">Mastered the art of snacking on an extreme budget. Made thick cheese sandwiches in complete darkness on several occasions. Achieved elite status in being able to sleep soundly while housemates got ready for work.</p>
+							<p class="job-details"></p>
 						</article>
 						<article>
 							<div class="date-ranges">
-								<span class="job-start">Jun 1962</span>
-								<span class="job-end">Feb 1979</span>
+								<span class="job-start"></span>
+								<span class="job-end"></span>
 							</div>
 							<hgroup>
-								<h1 class="job-location">Crustville, AK</h1>
-								<h2 class="job-title">Soil Artist</h2>						
+								<h1 class="job-location"></h1>
+								<h2 class="job-title"></h2>						
 							</hgroup>							
-							<p class="job-details">Prepared bags of generic "happy feed" for the lawns of the wealthy. Developed lasting resentment for outdoor work and the wealthy.</p>
+							<p class="job-details"></p>
 						</article>			
 					</div>
 				</div>
@@ -79,24 +79,24 @@
 						<h1>Special Skills</h1>
 						<dl>
 							<dt>Language</dt>
-							<dd>High-school level Spanish speaker</dd>
+							<dd>Speak english and spanish</dd>
 							<dt>Sports</dt>
-							<dd>Capable of imagining my own perfect body without exercising</dd>
+							<dd></dd>
 							<dt>Computers</dt>
-							<dd>I kind of like them.</dd>
-							<dt>Marriage</dt>
-							<dd>My mother insisted I add this. Ladies?</dd>																																			
+							<dd>Know how to use POS</dd>
+							<dt></dt>
+							<dd></dd>																																			
 						</dl>
 					</article>
 					<article>
 						<h1>Interests</h1>
 						<ul>
-							<li>Laser Tag</li>
-							<li>Arcade Golfing</li>
-							<li>Sitting</li>
+							<li>Art</li>
+							<li></li>
+							<li></li>
 						</ul>
-						<blockquote><p>Ernie, your mom and I are really concerned about your future.</p><span>Dad</span></blockquote>
-						<p><em>References available if I had them.</em></p>						
+						<blockquote><p></p><span></span></blockquote>
+						<p><em></em></p>						
 					</article>			
 				</div>
 	    	</div>
