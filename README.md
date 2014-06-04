@@ -51,7 +51,7 @@
 							<p class="job-details">Cashier, pre-preparation, count till, stock front counter and drive-thru, clean tables, clean ouside, check bathrooms, dishwasher and help customers</p>
 
 				                        </div>
-				                        <div class="col col-two">	
+				                <div class="col col-two">	
 				             	<article>
 					        	<h1>Special Skills</h1>
 						 
@@ -62,13 +62,12 @@
 							<dd>Know how to use POS</dd>
 					        </article>
 			         		<article>
-						<h1>Interests</h1>
-						<ul>
+					        	<h1>Interests</h1>
+						 <ul>
 							<li>Art</li>
 						</ul>
 					       </article>		
-					</div>
-	    <footer></footer>
+				        	</div>
 		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
 	</div>
   </div>
