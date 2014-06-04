@@ -50,26 +50,24 @@
 							</hgroup>							
 							<p class="job-details">Cashier, pre-preparation, count till, stock front counter and drive-thru, clean tables, clean ouside, check bathrooms, dishwasher and help customers</p>
 
-				</div>
-				<div class="col col-two">	
-					<article>
-						<h1>Special Skills</h1>
-						<dl>
+				                        </div>
+				                        <div class="col col-two">	
+				             	<article>
+					        	<h1>Special Skills</h1>
+						 
 							<dt>Language</dt>
 							<dd>Speak english and spanish</dd>
 						
 							<dt>Computers</dt>
 							<dd>Know how to use POS</dd>
-						</dl>
-					</article>
-					<article>
+					        </article>
+			         		<article>
 						<h1>Interests</h1>
 						<ul>
 							<li>Art</li>
 						</ul>
-					</article>			
-				</div>
-	    	</div>
+					       </article>		
+					</div>
 	    <footer></footer>
 		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
 	</div>
