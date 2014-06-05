@@ -69,9 +69,11 @@
 							<li>Customer service experience</li>
 							<li>POS experience</li>
 						</ul>
-						<p><em>References available upon request.</em></p>						
+						<p><em>References available upon request.</em></p>
+						
 					</article>			
 			</div>
+		</div>	
 	    
 		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
 	</div>
