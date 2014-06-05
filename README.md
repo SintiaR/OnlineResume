@@ -67,7 +67,6 @@
 							<li>POS experience</li>
 						</ul>
 						<p><em>References available upon request.</em></p>
-						
 					</article>			
 			        </div>
 		    </div>
