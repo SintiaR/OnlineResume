@@ -28,6 +28,7 @@
 								<dd><a href="#">sintiar.github.io</a></dd>
 							</dl>
 						</div>							
+						
 						<article>
 							<div class="date-ranges">
 							    <span class="job-start">August 2014</span>
@@ -39,6 +40,7 @@
 							</hgroup>
 							<p class="job-details">Responible for stocking drive thur and front counter, cashier, count till, clean tables and bathrooms and parking lot, be friendly with customers, pre-preparation of food, wash dishes, take order, double check and repeat customer's orders</p>
 						</article>
+						
 						<article>
 							<div class="date-ranges">
 							    <span class="job-start">October 2012</span>
@@ -59,6 +61,7 @@
 							<dt>Mt. Rainier High School</dt>
 							<dd>June 2014</dd>                                                  						        <dd>22450 19th Ave S, Des Moines, WA 98198</dd>
 					</article>
+					
 					<article>
 						<h1>Skills</h1>
 						<ul>
@@ -69,7 +72,6 @@
 						<p><em>References available upon request.</em></p>						
 					</article>			
 				</div>
-	    	</div>
 	    <footer></footer>
 		<div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
 	</div>
