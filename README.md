@@ -54,22 +54,17 @@
 				</div>
 				<div class="col col-two">	
 					<article>
-						<h1>Special Skills</h1>
+						<h1>Education</h1>
 						<dl>
-							<dt>Language</dt>
-							<dd>English and spanish speaker</dd>
-							<dt>Customer Service</dt>
-							<dd>Able to treat customers in a friendly way and help them.</dd>
-							<dt>Computers</dt>
-							<dd>Took web design, made web page.</dd>
-						</dl>
+							<dt>Mt. Rainier High School</dt>
+							<dd>June 2014</dd>                                                  						        <dd>22450 19th Ave S, Des Moines, WA 98198</dd>
 					</article>
 					<article>
-						<h1>Interests</h1>
+						<h1>Skills</h1>
 						<ul>
-							<li>Art</li>
-							<li></li>
-							<li>Sitting</li>
+							<li>Spanish speaker</li>
+							<li>Customer service experience</li>
+							<li>POS experience</li>
 						</ul>
 						<p><em>References available upon request.</em></p>						
 					</article>			
