@@ -45,7 +45,7 @@
 							    <span class="job-end">December 2012</span>
 							</div>							
 							<hgroup>
-								<h1 class="job-location">Seatc, Washington</h1>
+								<h1 class="job-location">Seatac, Washington</h1>
 								<h2 class="job-title">Las Palmas Restaurant Cashier</h2>								
 							</hgroup>							
 							<p class="job-details">Take customers orders, clean tables, cash out</p>
