@@ -74,6 +74,5 @@
 		<footer></footer>
 		     <div id="logo"><img src="img/logo.jpg" alt="Website logo"></div>
 	   </div>
-  </div>
 </body>
 </html>
